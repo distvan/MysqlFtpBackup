@@ -1,0 +1,11 @@
+{
+    "require": {
+        "nicolab/php-ftp-client": "^1.2",
+        "ifsnop/mysqldump-php": "^2.1",
+        "wapmorgan/unified-archive": "^0.0.3",
+        "monolog/monolog": "^1.17"
+    },
+    "autoload":{
+      "psr-4": {"Distvan\\": "lib/"}
+    }
+}

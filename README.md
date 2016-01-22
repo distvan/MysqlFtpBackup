@@ -1,0 +1,1 @@
+The class helps to make a multiple database backup and save the compressed dump file to a remote filesystem using ftp. You can set a maximum space and the Backup class checks it and deletes some oldest file to store a new dump when no enough space available on remote ftp folder.
